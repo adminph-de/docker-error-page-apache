@@ -38,7 +38,7 @@
   <h3 align="center">Hosting an <b>Error404</b> Webpage</h3>
 
   <p align="center">
-    Building a Docker container (apache2) and provide an Error404 webpage
+    Building a Docker container (httpd) and provide an Error404 webpage
     <br />
     <a href="https://github.com/adminph-de/docker-error-page-apache"><strong>Explore the docs »</strong></a>
     <br />
