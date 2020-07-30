@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/adminph-de/docker-error-page-apache">
-    <img src="images/logo.png" alt="Logo" width="708" height="274">
+    <img src="images/logo.png" alt="Logo" width="421" height="192">
   </a>
 
   <h3 align="center">Hosting an ```Error404``` Webpage</h3>
