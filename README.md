@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="421" height="192">
   </a>
 
-  <h3 align="center">Hosting an ```Error404``` Webpage</h3>
+  <h3 align="center">Hosting an <b>Error404</b> Webpage</h3>
 
   <p align="center">
     Building a Docker container (apache2) and provide an Error404 webpage
